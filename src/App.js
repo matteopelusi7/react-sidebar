@@ -5,7 +5,7 @@ import Modal from "./Modal";
 function App() {
   return (
     <div>
-      SideBar
+      <Navbar />
     </div>
   );
 }

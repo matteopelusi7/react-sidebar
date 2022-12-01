@@ -5,9 +5,9 @@ import { links, SocialBar } from "./links";
 
 const Sidebar = () => {
   return (
-    <aside>
+    <Wrapper>
         Sidebar
-    </aside>
+    </Wrapper>
   );
 };
 
